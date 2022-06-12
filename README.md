@@ -29,7 +29,7 @@ El insumo principal de este trabajo son datos de estudiantes de diferentes unive
 
 
 ### Registro de Muestra y Características de Medición:
-Datos obtenidos de los estudiantes por el departamento de educación  estadounidense CollegeScorecard.csv (7.804 registros). 
+Datos obtenidos de los estudiantes por el departamento de educación  estadounidense [CollegeScorecard.csv](https://data.world/exercises/cluster-analysis-exercise-2/workspace/file?filename=CollegeScorecard.csv) (7.804 registros). 
 
 ### Recopilación de Datos:
 
@@ -38,6 +38,7 @@ Datos obtenidos de los estudiantes por el departamento de educación  estadounid
 ### Preprocesamiento de Datos:
 
 ### Link a la Información:
+- [CollegeScorecard.csv](https://data.world/exercises/cluster-analysis-exercise-2/workspace/file?filename=CollegeScorecard.csv)
 
 ## Desarrollo de los Modelos y Validación
 
