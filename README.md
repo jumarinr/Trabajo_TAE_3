@@ -33,63 +33,61 @@
 
 ### Método de Clustering:
 
-K Means: Algoritmo de agrupamiento no supervisado que reúne objetos en “k” basándose en sus características. Este agrupamiento se realiza minimizando la suma de distancias entre cada objeto y el centroide de su grupo o cluster. 
+* K Means: Algoritmo de agrupamiento no supervisado que reúne objetos en “k” basándose en sus características. Este agrupamiento se realiza minimizando la suma de distancias entre cada objeto y el centroide de su grupo o cluster. Para su implementación de este se realizaron los siguientes procedimientos: 
 
-Para la implementación de este se realizaron los siguientes procedimientos: 
-
-1. Utilizando los componentes principales escogidos, se realiza un análisis mediante una gráfica que permite encontrar el número óptimo de clusters. 
-2. Con el número óptimo de clusters, se realiza el entrenamiento del modelo.
+  1. Utilizando los componentes principales escogidos, se realiza un análisis mediante una gráfica que permite encontrar el número óptimo de clusters. 
+  2. Con el número óptimo de clusters, se realiza el entrenamiento del modelo.
 
 
 ## Definiciones
 
-**Instituto de educación superior:** para este trabajo se define como institutos que se encuentran en el proyecto college scorecard ya que estos datos salen de informes federales.
+* **Instituto de educación superior:** para este trabajo se define como institutos que se encuentran en el proyecto college scorecard ya que estos datos salen de informes federales.
 
 ## Fuentes de Datos y Preprocesamiento
 
 ### Poblaciones:
 
-- Instituto de educación superior.
-- Centro educativo.
+* Instituto de educación superior.
+* Centro educativo.
 
 
 ### Registro de Muestra y Características de Medición:
 
-Datos obtenidos de los estudiantes por el departamento de educación  estadounidense CollegeScorecard.csv (7.804 registros). 
+* Datos obtenidos de los estudiantes por el departamento de educación  estadounidense CollegeScorecard.csv (7.804 registros). 
 
 ### Recopilación de Datos:
 
-Registros de solicitudes seleccionados de la base de datos a partir de las definiciones presentadas en este trabajo.
+* Registros de solicitudes seleccionados de la base de datos a partir de las definiciones presentadas en este trabajo.
 
 ### Estructuras de Datos y Tipos:
 
-Variables continuas y discretas seleccionadas de la base de datos.
+* Variables continuas y discretas seleccionadas de la base de datos.
 
 ### Preprocesamiento de Datos:
 
-Se realizó el siguiente preprocesamiento para los datos:
+* Se realizó el siguiente preprocesamiento para los datos:
 
-- Reemplazo de los valores “PrivacySuppressed” por valores nulos.
-- Eliminación de todas las columnas que sobrepasan el 20% de valores nulos.
-- Eliminación de columnas que solo contienen dos y tres valores ya que se consideran categóricas.
-- Eliminación de columnas a partir de análisis exploratorio de los datos.
-- Reemplazo de los valores nulos restantes con la media de la columna en la que aparecen.
+  * Reemplazo de los valores “PrivacySuppressed” por valores nulos.
+  * Eliminación de todas las columnas que sobrepasan el 20% de valores nulos.
+  * Eliminación de columnas que solo contienen dos y tres valores ya que se consideran categóricas.
+  * Eliminación de columnas a partir de análisis exploratorio de los datos.
+  * Reemplazo de los valores nulos restantes con la media de la columna en la que aparecen.
 
 ### Link a la Información:
 
-[CollegeScorecard.csv](https://data.world/exercises/cluster-analysis-exercise-2/workspace/file?filename=CollegeScorecard.csv)
+* [CollegeScorecard.csv](https://data.world/exercises/cluster-analysis-exercise-2/workspace/file?filename=CollegeScorecard.csv).
 
 ## Desarrollo del Modelo
 
 ### Software Utilizado:
 
-Modelo realizado en Google Collaboratory con el lenguaje de programación Python utilizando la librerías Sklearn
+* Modelo realizado en Google Collaboratory con el lenguaje de programación Python utilizando la librerías Sklearn
 
 ### Reproducibilidad y Reutilización del Código:
 
-Modelo para el agrupamiento de universidades:
-- [Código fuente en Google Colab](https://colab.research.google.com/drive/1kW8cXqE39fJZ7ep0Wu0mjwCtVxmfP-CW?usp=sharing)
-- [Código fuente en Github](https://github.com/jumarinr/Trabajo_TAE_3)
+* Modelo para el agrupamiento de universidades:
+  * [Código fuente en Google Colab](https://colab.research.google.com/drive/1kW8cXqE39fJZ7ep0Wu0mjwCtVxmfP-CW?usp=sharing)
+  * [Código fuente en Github](https://github.com/jumarinr/Trabajo_TAE_3)
 
 ## Propuesta de implementación en Colombia
 
