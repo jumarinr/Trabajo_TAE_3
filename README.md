@@ -93,14 +93,14 @@
 
 Como trabajos previos se encuentra unas encuestas realizadas por la universidad nacional de Colombia durante el periodo de 2008-1 hasta el 2022-1 en donde se obtiene las siguientes características de la población admitida y egresada: 
 
-Modalidad de la formación
-Nivel de la formación
-Nacionalidad
-Lugar de nacimiento
-Lugar de procedencia
-Sexo
-Estrato
-Discapacidad
+  * Modalidad de la formación
+  * Nivel de la formación
+  * Nacionalidad
+  * Lugar de nacimiento
+  * Lugar de procedencia
+  * Sexo
+  * Estrato
+  * Discapacidad
 
 La encuesta para la recolección de datos puede estar basada en la encuesta mencionada anteriormente.
 
