@@ -53,7 +53,7 @@
 
 ### Registro de Muestra y Características de Medición:
 
-* Datos obtenidos de los estudiantes por el departamento de educación  estadounidense CollegeScorecard.csv (7.804 registros). 
+* Datos obtenidos de los estudiantes por el departamento de educación  estadounidense [CollegeScorecard.csv](https://data.world/exercises/cluster-analysis-exercise-2/workspace/file?filename=CollegeScorecard.csv) (7.804 registros). 
 
 ### Recopilación de Datos:
 
@@ -113,5 +113,9 @@ La propuesta consistiría en recolectar datos respecto al ingreso de estudiantes
 ## Referencias
 
 A. (2020, 23 septiembre). US College Scorecard Clustering. Kaggle. https://www.kaggle.com/code/amritasengupta/us-college-scorecard-clustering/notebook
+
 PCA con Python. (s. f.). Joaquín Amat Rodrigo. https://www.cienciadedatos.net/documentos/py19-pca-python.html
+
 US Dept of Education: College Scorecard. (2017, 9 noviembre). Kaggle. https://www.kaggle.com/datasets/kaggle/college-scorecard/code?select=Scorecard.csv
+
+UNAL en un vistazo  (2022, Enero) Universidad Nacional de Colombia http://estadisticas.unal.edu.co/home/
