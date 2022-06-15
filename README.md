@@ -1,4 +1,4 @@
-# Trabajo 3 Técnicas de aprendizaje estadistico
+# Trabajo 3 Técnicas de Aprendizaje Estadístico
 
 ## Integrantes 
 - Camilo Loaiza Fonnegra
@@ -40,7 +40,7 @@ K Means: Algoritmo de agrupamiento no supervisado que reúne objetos en “k” 
 Para la implementación de este se realizaron los siguientes procedimientos: 
 
 1. Utilizando los componentes principales escogidos, se realiza un análisis mediante una gráfica que permite encontrar el número óptimo de clusters. 
-2. Con el número óptimo de clusters, se realiza el entrenamiento del modelo 
+2. Con el número óptimo de clusters, se realiza el entrenamiento del modelo.
 
 
 ## Definiciones
@@ -51,8 +51,8 @@ Para la implementación de este se realizaron los siguientes procedimientos:
 
 ### Poblaciones:
 
-- Instituto de educación superior
-- Centro educativo
+- Instituto de educación superior.
+- Centro educativo.
 
 
 ### Registro de Muestra y Características de Medición:
@@ -95,11 +95,24 @@ Modelo para el agrupamiento de universidades:
 
 ## Propuesta de implementación en Colombia
 
-Se propone recolectar datos respecto al ingreso de estudiantes y la salida de estudiantes graduados de las carreras más comunes en las universidades; además de generar una división de estudiantes por estratos, realizar un análisis de gastos de las universidades y el valor de la matrícula para observar qué universidades podrían ser buenas opciones para los jóvenes en general. Los datos se recolectarían de todas las universidades del país.
+Como trabajos previos se encuentra unas encuestas realizadas por la universidad nacional de Colombia durante el periodo de 2008-1 hasta el 2022-1 en donde se obtiene las siguientes características de la población admitida y egresada: 
+
+Modalidad de la formación
+Nivel de la formación
+Nacionalidad
+Lugar de nacimiento
+Lugar de procedencia
+Sexo
+Estrato
+Discapacidad
+
+La encuesta para la recolección de datos puede estar basada en la encuesta mencionada anteriormente.
+
+La propuesta consistiría en recolectar datos respecto al ingreso de estudiantes y la salida de estudiantes graduados de las carreras más comunes en las universidades; además de generar una división de estudiantes por estratos, realizar un análisis de gastos de las universidades y el valor de la matrícula para observar qué universidades podrían ser buenas opciones para los jóvenes en general. Los datos se recolectarían de todas las universidades del país y se solicitaría crear un estándar para las preguntas que adopte las variables recolectadas por el trabajo previo encontrado.
 
 ## Conclusiones
 
-
+* Se puede concluir que sin importar a qué grupo pertenece la universidad dado el agrupamiento realizado, se presenta una gran cantidad de estudiantes de raza blanca en todas.
 
 ## Referencias
 
