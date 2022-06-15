@@ -11,27 +11,25 @@
 
 ### Objetivo:
 
-Caracterizar, comprender y desarrollar un modelo de clustering que permita reunir en grupos instituciones de educación superior.
+* Caracterizar, comprender y desarrollar un modelo de clustering que permita reunir en grupos instituciones de educación superior.
 
 ### Tipo de Problema:
 
-Problema de predicción de mejor decisión en la elección de instituciones de educación superior a partir de los datos y recursos.
+* Problema de predicción de mejor decisión en la elección de instituciones de educación superior a partir de los datos y recursos.
 
 ### Información Disponible:
 
-El insumo principal de este trabajo son datos de estudiantes de diferentes universidades provenientes del departamento de eduación de Estados Unidos https://data.world/exercises/cluster-analysis-exercise-2 (7.804 registros)
+* El insumo principal de este trabajo son datos de estudiantes de diferentes universidades provenientes del departamento de eduación de Estados Unidos https://data.world/exercises/cluster-analysis-exercise-2 (7.804 registros)
 
 
 ### Reducción de la dimensionalidad mediante ACP:
 
-Análisis de componentes principales, Técnica lineal que se utiliza para la eliminación de la redundancia de los datos, utilizada para describir un conjunto de datos en términos de nuevos componentes no correlacionados.
+* Análisis de componentes principales, Técnica lineal que se utiliza para la eliminación de la redundancia de los datos, utilizada para describir un conjunto de datos en términos de nuevos componentes no correlacionados. Para su implementación se realizó el siguiente proceso: 
 
-Para su implementación se realizó el siguiente proceso: 
-
-1. Se realiza un preprocesamiento de los datos.
-2. Se realiza la reducción de la dimensionalidad.
-3. Se encuentra el número óptimo de componentes principales.
-4. Se crea la matriz de componentes principales a usar en el agrupamiento.
+  1. Se realiza un preprocesamiento de los datos.
+  2. Se realiza la reducción de la dimensionalidad.
+  3. Se encuentra el número óptimo de componentes principales.
+  4. Se crea la matriz de componentes principales a usar en el agrupamiento.
 
 ### Método de Clustering:
 
