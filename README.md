@@ -110,6 +110,7 @@ La propuesta consistiría en recolectar datos respecto al ingreso de estudiantes
 
 * Se puede concluir que sin importar a qué grupo pertenece la universidad dado el agrupamiento realizado, se presenta una gran cantidad de estudiantes de raza blanca en todas.
 * Tras el análisis, se puede deducir que en los grupos 0, 1 y 3 los  estudiantes de 25 años o más en las universidades están por encima del 40% aproximadamente mientras que en el grupo 2 están sobre el 20% aproximadamente. 
+* En todos los grupos, se puede observar que la carrera que predomina en la que se graduaron por encima del 10% de los estudiantes en promedio son carreras relacionadas con la salud.
 
 ## Referencias
 
