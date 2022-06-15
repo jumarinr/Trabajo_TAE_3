@@ -2,9 +2,9 @@
 
 ## Integrantes 
 - Camilo Loaiza Fonnegra
+- Juan Diego Marin Rodriguez
 - Juan Pablo Rivera Sierra
 - Eduardo Santos Ruiz
-- Juan Diego Marin Rodriguez
 - Ivan Andrés Velasco Arias
 
 ## Planteamiento del Problema
