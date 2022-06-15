@@ -81,7 +81,7 @@
 
 ### Software Utilizado:
 
-* Modelo realizado en Google Collaboratory con el lenguaje de programación Python utilizando la librerías Sklearn
+* Modelo realizado en [Google Collaboratory](https://www.google.com/url?q=https://colab.research.google.com/notebooks/welcome.ipynb?hl%3Des&sa=D&source=editors&ust=1651468799400076&usg=AOvVaw3BsmzIFA0LLERerLBE2zcG) con el lenguaje de programación Python utilizando la librerías [Sklearn](https://scikit-learn.org/stable/).
 
 ### Reproducibilidad y Reutilización del Código:
 
